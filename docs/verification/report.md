@@ -15,8 +15,8 @@ Verified locally on 24 September 2026 (Asia/Calcutta). The requested white redes
 ## Deployment and known limits
 
 - Vercel CLI is signed out. A permanent production deployment has **not** been completed. The root Vercel configuration and static build are ready. No expiring temporary deployment was used.
-- Daily refresh and CI workflows are committed in the project. Remote execution and scheduled delivery require a successful repository push and hosting connection; see the final delivery status below.
-- Local Python was 3.12.14. CI explicitly targets the requested Python 3.11; local success is not presented as a completed remote CI run.
+- The application and workflows were pushed to the requested GitHub repository on main (initial implementation commit b004aec). [GitHub Quality checks passed](https://github.com/Kaif198/Alpine-Freight-Cockpit/actions/runs/35905094088), including Python 3.11 and all browser tests. Vercel Git integration is not connected, so automatic hosted redeployment remains unverified.
+- Local Python was 3.12.14. GitHub CI successfully ran the parser suite on the requested Python 3.11.
 - Carrier HTML data is unavailable. DHL surcharge requests timed out; DSV republication permission remains unresolved. Carrier logos identify publications, not fictional performance. The benchmark discloses its synthetic surcharge fallback.
 - Distances are straight-line approximations. Bid-derived benchmarks are simplified scenario references, not independent market quotes. The U.S. TSI is context only.
 - Automatic approval review rejected uploading application source code to the external design service for the redesign. The visual redesign was completed locally; no workaround upload was attempted.
