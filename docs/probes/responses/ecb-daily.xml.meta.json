@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?cb2af92b4b962bb8feefc7c75f2213f4",
+  "final_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?cb2af92b4b962bb8feefc7c75f2213f4",
+  "fetched_at": "2026-09-22T21:58:25.2835061Z",
+  "completed_at": "2026-09-22T21:58:25.4823833Z",
+  "status": 200,
+  "content_type": "text/xml",
+  "bytes": 1547,
+  "sha256": "5584ddc3fe6a86196017982fcf87ddf935a994d9282aff1b1fd5e4f4ace127b0",
+  "file": "ecb-daily.xml"
+}

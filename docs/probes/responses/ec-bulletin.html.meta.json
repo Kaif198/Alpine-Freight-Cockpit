@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en",
+  "final_url": "https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en",
+  "fetched_at": "2026-09-22T21:57:36.0756409Z",
+  "completed_at": "2026-09-22T21:57:36.2961312Z",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 103265,
+  "sha256": "3467e9c31c1a7c530f9bea6fe21335ee4aa52bba985184f27d429f35926dd199",
+  "file": "ec-bulletin.html"
+}

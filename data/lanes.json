@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "source_name": "Natural Earth populated places",
+    "source_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_populated_places.geojson",
+    "fetched_at": "2026-09-22T22:12:20.692574+00:00",
+    "is_synthetic": false,
+    "schema_version": "1.0",
+    "expected_refresh_days": 365,
+    "note": "Public-domain city centres; Haversine distances are straight-line approximations, not road distances. Earth mean-radius constant 6371.0088 km."
+  },
+  "records": [
+    {
+      "id": "SZG-HAM",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Hamburg",
+        "country": "DE",
+        "longitude": 9.998053,
+        "latitude": 53.551971
+      },
+      "distance_km": 673.3,
+      "distance_method": "great-circle approximation"
+    },
+    {
+      "id": "SZG-MIL",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Milan",
+        "country": "IT",
+        "longitude": 9.203063,
+        "latitude": 45.471921
+      },
+      "distance_km": 391.6,
+      "distance_method": "great-circle approximation"
+    },
+    {
+      "id": "SZG-WAR",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Warsaw",
+        "country": "PL",
+        "longitude": 21.005347,
+        "latitude": 52.230872
+      },
+      "distance_km": 751.2,
+      "distance_method": "great-circle approximation"
+    },
+    {
+      "id": "SZG-BUD",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Budapest",
+        "country": "HU",
+        "longitude": 19.081375,
+        "latitude": 47.501952
+      },
+      "distance_km": 453.7,
+      "distance_method": "great-circle approximation"
+    },
+    {
+      "id": "SZG-LYO",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Lyon",
+        "country": "FR",
+        "longitude": 4.828085,
+        "latitude": 45.771954
+      },
+      "distance_km": 664.6,
+      "distance_method": "great-circle approximation"
+    },
+    {
+      "id": "SZG-ROT",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Rotterdam",
+        "country": "NL",
+        "longitude": 4.478028,
+        "latitude": 51.921915
+      },
+      "distance_km": 764.4,
+      "distance_method": "great-circle approximation"
+    },
+    {
+      "id": "SZG-PRA",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Prague",
+        "country": "CZ",
+        "longitude": 14.422939,
+        "latitude": 50.086967
+      },
+      "distance_km": 272.5,
+      "distance_method": "great-circle approximation"
+    },
+    {
+      "id": "SZG-MUN",
+      "origin": {
+        "name": "Salzburg",
+        "country": "AT",
+        "longitude": 13.04002,
+        "latitude": 47.810478
+      },
+      "destination": {
+        "name": "Munich",
+        "country": "DE",
+        "longitude": 11.573048,
+        "latitude": 48.131888
+      },
+      "distance_km": 114.9,
+      "distance_method": "great-circle approximation"
+    }
+  ]
+}

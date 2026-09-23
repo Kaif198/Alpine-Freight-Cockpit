@@ -1,0 +1,6 @@
+{
+  "requested_url": "https://fred.stlouisfed.org/robots.txt",
+  "fetched_at": "2026-09-22T22:05:22.1290356Z",
+  "error": "The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing.",
+  "file": null
+}

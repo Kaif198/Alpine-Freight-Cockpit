@@ -1,0 +1,28 @@
+
+> alpine-freight-cockpit@1.0.0 test:browser
+> playwright test
+
+
+Running 19 tests using 1 worker
+
+  ok  1 tests\cockpit.spec.ts:7:80 › overview works at 1440px (3.9s)
+  ok  2 tests\cockpit.spec.ts:7:80 › market works at 1440px (3.6s)
+  ok  3 tests\cockpit.spec.ts:7:80 › benchmark works at 1440px (3.5s)
+  ok  4 tests\cockpit.spec.ts:7:80 › scorecard works at 1440px (3.5s)
+  ok  5 tests\cockpit.spec.ts:7:80 › allocation works at 1440px (3.5s)
+  ok  6 tests\cockpit.spec.ts:7:80 › methodology works at 1440px (3.6s)
+  ok  7 tests\cockpit.spec.ts:7:80 › overview works at 375px (435ms)
+  ok  8 tests\cockpit.spec.ts:7:80 › market works at 375px (436ms)
+  ok  9 tests\cockpit.spec.ts:7:80 › benchmark works at 375px (415ms)
+  ok 10 tests\cockpit.spec.ts:7:80 › scorecard works at 375px (420ms)
+  ok 11 tests\cockpit.spec.ts:7:80 › allocation works at 375px (381ms)
+  ok 12 tests\cockpit.spec.ts:7:80 › methodology works at 375px (477ms)
+  ok 13 tests\cockpit.spec.ts:19:1 › benchmark filtering, calculations and export (487ms)
+  ok 14 tests\cockpit.spec.ts:33:1 › allocation responds, explains infeasibility and resets (426ms)
+  ok 15 tests\cockpit.spec.ts:45:1 › weights update partner scores and theme persists (681ms)
+  ok 16 tests\cockpit.spec.ts:58:1 › market sources expose provenance and empty selection (555ms)
+  ok 17 tests\cockpit.spec.ts:67:1 › load failure offers recovery without invented numbers (503ms)
+  ok 18 tests\cockpit.spec.ts:76:1 › mobile navigation and benchmark scroll remain usable (457ms)
+  ok 19 tests\cockpit.spec.ts:84:1 › skip navigation keeps the active page and focuses main content (392ms)
+
+  19 passed (29.6s)

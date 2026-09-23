@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.ecb.europa.eu/robots.txt",
+  "final_url": "https://www.ecb.europa.eu/robots.txt",
+  "fetched_at": "2026-09-22T21:56:51.9123288Z",
+  "completed_at": "2026-09-22T21:56:52.0615859Z",
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "bytes": 1141,
+  "sha256": "8e55738f64103300babd50db62b59ff5fd47fa7e51a497a7e2f13bf6669b6655",
+  "file": "ecb-robots.txt"
+}

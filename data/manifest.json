@@ -1,0 +1,82 @@
+{
+  "diesel": {
+    "status": "fresh",
+    "fetched_at": "2026-09-22T22:42:59.302932+00:00",
+    "source_url": "https://energy.ec.europa.eu/document/download/906e60ca-8b6a-44e7-8589-652854d2fd3f_en?filename=Weekly_Oil_Bulletin_Prices_History_maticni_4web.xlsx",
+    "record_count": 216,
+    "checked_at": "2026-09-22T22:42:59.309077+00:00",
+    "error": null
+  },
+  "fx": {
+    "status": "fresh",
+    "fetched_at": "2026-09-22T22:43:04.443803+00:00",
+    "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?cb2af92b4b962bb8feefc7c75f2213f4",
+    "record_count": 29,
+    "checked_at": "2026-09-22T22:43:04.445805+00:00",
+    "error": null
+  },
+  "freight": {
+    "status": "fresh",
+    "fetched_at": "2026-09-22T22:43:07.437915+00:00",
+    "source_url": "https://data.bts.gov/api/v3/views/bw6n-ddqk/query.json",
+    "record_count": 27,
+    "checked_at": "2026-09-22T22:43:07.439918+00:00",
+    "error": null
+  },
+  "lanes": {
+    "status": "verified-static",
+    "fetched_at": "2026-09-22T22:12:20.692574+00:00",
+    "source_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_populated_places.geojson",
+    "record_count": 8,
+    "checked_at": "2026-09-22T22:12:20.692574+00:00",
+    "error": null
+  },
+  "map": {
+    "status": "verified-static",
+    "fetched_at": "2026-09-22T22:07:22.1776150Z",
+    "source_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+    "record_count": 40,
+    "checked_at": "2026-09-22T22:07:22.1776150Z",
+    "error": null
+  },
+  "partners": {
+    "status": "synthetic",
+    "fetched_at": "2026-09-14T00:00:00Z",
+    "source_url": "synthetic/generate.py",
+    "record_count": 5,
+    "checked_at": "2026-09-14T00:00:00Z",
+    "error": null
+  },
+  "bids": {
+    "status": "synthetic",
+    "fetched_at": "2026-09-14T00:00:00Z",
+    "source_url": "synthetic/generate.py",
+    "record_count": 40,
+    "checked_at": "2026-09-14T00:00:00Z",
+    "error": null
+  },
+  "performance": {
+    "status": "synthetic",
+    "fetched_at": "2026-09-14T00:00:00Z",
+    "source_url": "synthetic/generate.py",
+    "record_count": 1040,
+    "checked_at": "2026-09-14T00:00:00Z",
+    "error": null
+  },
+  "dhl": {
+    "status": "unavailable",
+    "fetched_at": null,
+    "source_url": "https://www.dhl.com/nl-en/home/freight/help-center-for-european-road-and-rail/dhl-freight-surcharges.html",
+    "record_count": 0,
+    "checked_at": "2026-09-23T18:22:22.117472+00:00",
+    "error": "Repeated requests timed out; no verified raw surcharge HTML."
+  },
+  "dsv": {
+    "status": "excluded",
+    "fetched_at": null,
+    "source_url": "https://www.dsv.com/es-es/nuestras-soluciones/modos-de-transporte/transporte-por-carretera/servicios-online-y-tasas",
+    "record_count": 0,
+    "checked_at": "2026-09-23T18:22:22.117472+00:00",
+    "error": "Republication permission unresolved; not integrated."
+  }
+}

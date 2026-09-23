@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://data.bts.gov/api/v3/views/bw6n-ddqk/query.json",
+  "final_url": "https://data.bts.gov/api/v3/views/bw6n-ddqk/query.json",
+  "fetched_at": "2026-09-22T22:14:27.886852+00:00",
+  "completed_at": "2026-09-22T22:14:28.983532+00:00",
+  "status": 200,
+  "content_type": "application/json; charset=utf-8",
+  "bytes": 547478,
+  "sha256": "05e26452b33dd11d2d15d7ba024f24103679f1254de75ad215d8824192c20939",
+  "file": "bts-series.json"
+}

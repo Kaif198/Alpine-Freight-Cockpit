@@ -1,0 +1,6 @@
+{
+  "requested_url": "https://fred.stlouisfed.org/series/TSIFRGHT",
+  "fetched_at": "2026-09-22T22:05:42.9433514Z",
+  "error": "The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing.",
+  "file": null
+}

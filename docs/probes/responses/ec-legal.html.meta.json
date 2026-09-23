@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://commission.europa.eu/legal-notice_en",
+  "final_url": "https://commission.europa.eu/legal-notice_en",
+  "fetched_at": "2026-09-22T21:58:54.8049695Z",
+  "completed_at": "2026-09-22T21:59:10.1002633Z",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 152378,
+  "sha256": "272d4ccf8f44ee8b2884792188e5adbb4133ed2eecf9007e0b7e6d25e47383a6",
+  "file": "ec-legal.html"
+}

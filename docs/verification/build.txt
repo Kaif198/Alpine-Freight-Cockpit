@@ -1,0 +1,19 @@
+
+> alpine-freight-cockpit@1.0.0 build
+> npm run sync-data && tsc -b && vite build
+
+
+> alpine-freight-cockpit@1.0.0 sync-data
+> node scripts/sync-data.mjs
+
+Copied committed datasets and methodology; supplied logo: /brand/redbull-logo.svg
+vite v8.3.0 building client environment for production...
+transforming...
+✓ 2134 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   1.01 kB │ gzip:   0.57 kB
+dist/assets/index-CSBjBmzM.css   63.01 kB │ gzip:  12.81 kB
+dist/assets/index-Dqn0gksG.js   491.35 kB │ gzip: 150.29 kB
+
+✓ built in 602ms

@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+  "final_url": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson",
+  "fetched_at": "2026-09-22T22:07:22.1776150Z",
+  "completed_at": "2026-09-22T22:07:22.5209536Z",
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "bytes": 838726,
+  "sha256": "6866c877d39cba9c357620878839b336d569f8c662d3cfab4cb1dbe2d39c977f",
+  "file": "countries.geojson"
+}

@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://data.bts.gov/robots.txt",
+  "final_url": "https://data.bts.gov/robots.txt",
+  "fetched_at": "2026-09-22T22:14:24.904744+00:00",
+  "completed_at": "2026-09-22T22:14:25.550907+00:00",
+  "status": 200,
+  "content_type": "text/plain; charset=utf-8",
+  "bytes": 1743,
+  "sha256": "770cc579b77b57d88cba190c96ed97f9803f0fe41df936d6403ac87f321adb3e",
+  "file": "bts-data-robots.txt"
+}

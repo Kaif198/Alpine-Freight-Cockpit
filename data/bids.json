@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "source_name": "Seeded fictional tender scenario (seed 198)",
+    "source_url": "synthetic/generate.py",
+    "fetched_at": "2026-09-14T00:00:00Z",
+    "is_synthetic": true,
+    "schema_version": "1.0",
+    "expected_refresh_days": 36500,
+    "note": "Fixed scenario reference date, not a live fetch. Fictional partners, bids, capacities and performance."
+  },
+  "records": [
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-HAM",
+      "base_eur": 1152.97,
+      "fuel_percent": 19.69,
+      "transit_days": 1,
+      "weekly_capacity": 27
+    },
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-MIL",
+      "base_eur": 813.47,
+      "fuel_percent": 16.53,
+      "transit_days": 1,
+      "weekly_capacity": 16
+    },
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-WAR",
+      "base_eur": 1378.39,
+      "fuel_percent": 18.42,
+      "transit_days": 2,
+      "weekly_capacity": 20
+    },
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-BUD",
+      "base_eur": 939.79,
+      "fuel_percent": 15.92,
+      "transit_days": 1,
+      "weekly_capacity": 32
+    },
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-LYO",
+      "base_eur": 1213.59,
+      "fuel_percent": 15.16,
+      "transit_days": 1,
+      "weekly_capacity": 13
+    },
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-ROT",
+      "base_eur": 1282.55,
+      "fuel_percent": 15.11,
+      "transit_days": 2,
+      "weekly_capacity": 15
+    },
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-PRA",
+      "base_eur": 638.59,
+      "fuel_percent": 19.11,
+      "transit_days": 1,
+      "weekly_capacity": 17
+    },
+    {
+      "partner_id": "tauern",
+      "lane_id": "SZG-MUN",
+      "base_eur": 398.71,
+      "fuel_percent": 21.15,
+      "transit_days": 1,
+      "weekly_capacity": 26
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-HAM",
+      "base_eur": 1251.94,
+      "fuel_percent": 17.53,
+      "transit_days": 2,
+      "weekly_capacity": 18
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-MIL",
+      "base_eur": 770.17,
+      "fuel_percent": 16.62,
+      "transit_days": 2,
+      "weekly_capacity": 26
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-WAR",
+      "base_eur": 1291.19,
+      "fuel_percent": 15.62,
+      "transit_days": 2,
+      "weekly_capacity": 31
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-BUD",
+      "base_eur": 820.94,
+      "fuel_percent": 21.5,
+      "transit_days": 2,
+      "weekly_capacity": 23
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-LYO",
+      "base_eur": 1117.5,
+      "fuel_percent": 19.28,
+      "transit_days": 1,
+      "weekly_capacity": 32
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-ROT",
+      "base_eur": 1231.61,
+      "fuel_percent": 20.99,
+      "transit_days": 1,
+      "weekly_capacity": 24
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-PRA",
+      "base_eur": 595.84,
+      "fuel_percent": 14.35,
+      "transit_days": 1,
+      "weekly_capacity": 30
+    },
+    {
+      "partner_id": "danube",
+      "lane_id": "SZG-MUN",
+      "base_eur": 415.3,
+      "fuel_percent": 20.25,
+      "transit_days": 1,
+      "weekly_capacity": 27
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-HAM",
+      "base_eur": 1664.56,
+      "fuel_percent": 15.5,
+      "transit_days": 2,
+      "weekly_capacity": 29
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-MIL",
+      "base_eur": 1056.52,
+      "fuel_percent": 17.47,
+      "transit_days": 2,
+      "weekly_capacity": 20
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-WAR",
+      "base_eur": 1762.66,
+      "fuel_percent": 19.62,
+      "transit_days": 2,
+      "weekly_capacity": 26
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-BUD",
+      "base_eur": 1103.06,
+      "fuel_percent": 15.46,
+      "transit_days": 1,
+      "weekly_capacity": 30
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-LYO",
+      "base_eur": 1630.13,
+      "fuel_percent": 14.8,
+      "transit_days": 1,
+      "weekly_capacity": 24
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-ROT",
+      "base_eur": 1777.64,
+      "fuel_percent": 16.98,
+      "transit_days": 1,
+      "weekly_capacity": 21
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-PRA",
+      "base_eur": 791.84,
+      "fuel_percent": 18.61,
+      "transit_days": 1,
+      "weekly_capacity": 19
+    },
+    {
+      "partner_id": "summit",
+      "lane_id": "SZG-MUN",
+      "base_eur": 526.82,
+      "fuel_percent": 14.07,
+      "transit_days": 1,
+      "weekly_capacity": 21
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-HAM",
+      "base_eur": 1301.08,
+      "fuel_percent": 19.97,
+      "transit_days": 1,
+      "weekly_capacity": 32
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-MIL",
+      "base_eur": 809.68,
+      "fuel_percent": 19.67,
+      "transit_days": 2,
+      "weekly_capacity": 32
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-WAR",
+      "base_eur": 1467.89,
+      "fuel_percent": 19.12,
+      "transit_days": 1,
+      "weekly_capacity": 30
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-BUD",
+      "base_eur": 908.72,
+      "fuel_percent": 14.28,
+      "transit_days": 1,
+      "weekly_capacity": 29
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-LYO",
+      "base_eur": 1227.15,
+      "fuel_percent": 19.71,
+      "transit_days": 1,
+      "weekly_capacity": 22
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-ROT",
+      "base_eur": 1468.36,
+      "fuel_percent": 15.0,
+      "transit_days": 2,
+      "weekly_capacity": 13
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-PRA",
+      "base_eur": 711.73,
+      "fuel_percent": 14.18,
+      "transit_days": 1,
+      "weekly_capacity": 24
+    },
+    {
+      "partner_id": "velora",
+      "lane_id": "SZG-MUN",
+      "base_eur": 451.6,
+      "fuel_percent": 19.05,
+      "transit_days": 1,
+      "weekly_capacity": 18
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-HAM",
+      "base_eur": 1024.54,
+      "fuel_percent": 18.6,
+      "transit_days": 2,
+      "weekly_capacity": 14
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-MIL",
+      "base_eur": 608.85,
+      "fuel_percent": 14.15,
+      "transit_days": 2,
+      "weekly_capacity": 30
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-WAR",
+      "base_eur": 983.96,
+      "fuel_percent": 21.17,
+      "transit_days": 1,
+      "weekly_capacity": 27
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-BUD",
+      "base_eur": 741.12,
+      "fuel_percent": 19.59,
+      "transit_days": 2,
+      "weekly_capacity": 18
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-LYO",
+      "base_eur": 1016.94,
+      "fuel_percent": 16.22,
+      "transit_days": 2,
+      "weekly_capacity": 26
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-ROT",
+      "base_eur": 1125.11,
+      "fuel_percent": 18.74,
+      "transit_days": 1,
+      "weekly_capacity": 30
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-PRA",
+      "base_eur": 492.36,
+      "fuel_percent": 16.64,
+      "transit_days": 1,
+      "weekly_capacity": 22
+    },
+    {
+      "partner_id": "lowpass",
+      "lane_id": "SZG-MUN",
+      "base_eur": 336.14,
+      "fuel_percent": 18.35,
+      "transit_days": 1,
+      "weekly_capacity": 15
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "requested_url": "https://fred.stlouisfed.org/series/TSIFRGHT",
+  "fetched_at": "2026-09-22T22:11:58.329974+00:00",
+  "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=20)",
+  "file": null
+}

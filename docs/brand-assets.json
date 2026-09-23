@@ -1,0 +1,37 @@
+[
+  {
+    "file": "redbull-logo.svg",
+    "url": "https://www.redbull.com/v3/resources/images/client/header/redbullcom-logo_double-with-text.svg",
+    "fetched_at": "2026-09-23T18:22:17.782644+00:00",
+    "sha256": "17a448658d4d6dcb9664757a2341008b5975acb5dd6b221bf31eedba0bd291df"
+  },
+  {
+    "file": "dhl-logo.svg",
+    "url": "https://www.dhl.com/content/dam/dhl/global/core/images/logos/dhl-logo.svg",
+    "fetched_at": "2026-09-23T18:22:18.902802+00:00",
+    "sha256": "328777be6ed92ae88755009a974a1283abf795957a3df244576ed70f5de4e9c3"
+  },
+  {
+    "file": "dsv-logo.svg",
+    "url": "https://www.dsv.com/en",
+    "note": "Exact inline SVG markup from official header, unmodified paths."
+  },
+  {
+    "file": "ec-logo.svg",
+    "url": "https://energy.ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/logo-ec--mute.svg",
+    "fetched_at": "2026-09-23T18:23:25.618178+00:00",
+    "sha256": "73fee8ee4f5140b6439d646883ff35ddca8a80001908cd5ca71ff4e3f04b559b"
+  },
+  {
+    "file": "ecb-logo.svg",
+    "url": "https://www.ecb.europa.eu/shared/img/logo/logo_name.en.svg",
+    "fetched_at": "2026-09-23T18:23:25.814497+00:00",
+    "sha256": "34775dbdd656384a1aa5867d607f329bce5b93c4446eb768ed171f968054f86b"
+  },
+  {
+    "file": "redbull-favicon.png",
+    "url": "https://www.redbull.com/v3/resources/images/client/favicons/favicon-32.png",
+    "fetched_at": "2026-09-23T18:45:13.762995+00:00",
+    "sha256": "ebbbcdd40ad5e6dc92066a7be4cdd781815a95962ece2161fa6a4d1561abc04c"
+  }
+]

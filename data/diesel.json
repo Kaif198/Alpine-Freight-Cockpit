@@ -1,0 +1,1093 @@
+{
+  "meta": {
+    "source_name": "European Commission Weekly Oil Bulletin",
+    "source_url": "https://energy.ec.europa.eu/document/download/906e60ca-8b6a-44e7-8589-652854d2fd3f_en?filename=Weekly_Oil_Bulletin_Prices_History_maticni_4web.xlsx",
+    "fetched_at": "2026-09-22T22:42:59.302932+00:00",
+    "is_synthetic": false,
+    "schema_version": "1.0",
+    "expected_refresh_days": 7,
+    "note": ""
+  },
+  "records": [
+    {
+      "country": "AT",
+      "date": "2026-03-16",
+      "eur_per_litre": 1.954
+    },
+    {
+      "country": "CZ",
+      "date": "2026-03-16",
+      "eur_per_litre": 1.7409150433786218
+    },
+    {
+      "country": "DE",
+      "date": "2026-03-16",
+      "eur_per_litre": 2.146
+    },
+    {
+      "country": "FR",
+      "date": "2026-03-16",
+      "eur_per_litre": 2.01737
+    },
+    {
+      "country": "HU",
+      "date": "2026-03-16",
+      "eur_per_litre": 1.612866
+    },
+    {
+      "country": "IT",
+      "date": "2026-03-16",
+      "eur_per_litre": 2.03345
+    },
+    {
+      "country": "NL",
+      "date": "2026-03-16",
+      "eur_per_litre": 2.26415
+    },
+    {
+      "country": "PL",
+      "date": "2026-03-16",
+      "eur_per_litre": 1.7821431283348586
+    },
+    {
+      "country": "AT",
+      "date": "2026-03-23",
+      "eur_per_litre": 2.109
+    },
+    {
+      "country": "CZ",
+      "date": "2026-03-23",
+      "eur_per_litre": 1.9340296412500517
+    },
+    {
+      "country": "DE",
+      "date": "2026-03-23",
+      "eur_per_litre": 2.297
+    },
+    {
+      "country": "FR",
+      "date": "2026-03-23",
+      "eur_per_litre": 2.10879
+    },
+    {
+      "country": "HU",
+      "date": "2026-03-23",
+      "eur_per_litre": 1.6709137177846607
+    },
+    {
+      "country": "IT",
+      "date": "2026-03-23",
+      "eur_per_litre": 2.0231500000000002
+    },
+    {
+      "country": "NL",
+      "date": "2026-03-23",
+      "eur_per_litre": 2.47507
+    },
+    {
+      "country": "PL",
+      "date": "2026-03-23",
+      "eur_per_litre": 1.9921658287789794
+    },
+    {
+      "country": "AT",
+      "date": "2026-03-30",
+      "eur_per_litre": 2.204
+    },
+    {
+      "country": "CZ",
+      "date": "2026-03-30",
+      "eur_per_litre": 1.9666055793117492
+    },
+    {
+      "country": "DE",
+      "date": "2026-03-30",
+      "eur_per_litre": 2.286
+    },
+    {
+      "country": "FR",
+      "date": "2026-03-30",
+      "eur_per_litre": 2.1888
+    },
+    {
+      "country": "HU",
+      "date": "2026-03-30",
+      "eur_per_litre": 1.6198578504754702
+    },
+    {
+      "country": "IT",
+      "date": "2026-03-30",
+      "eur_per_litre": 2.03273
+    },
+    {
+      "country": "NL",
+      "date": "2026-03-30",
+      "eur_per_litre": 2.46325
+    },
+    {
+      "country": "PL",
+      "date": "2026-03-30",
+      "eur_per_litre": 2.0173956875014016
+    },
+    {
+      "country": "AT",
+      "date": "2026-04-06",
+      "eur_per_litre": 2.228
+    },
+    {
+      "country": "CZ",
+      "date": "2026-04-06",
+      "eur_per_litre": 1.9768456239044476
+    },
+    {
+      "country": "DE",
+      "date": "2026-04-06",
+      "eur_per_litre": 2.434
+    },
+    {
+      "country": "FR",
+      "date": "2026-04-06",
+      "eur_per_litre": 2.2337
+    },
+    {
+      "country": "HU",
+      "date": "2026-04-06",
+      "eur_per_litre": 1.6671027724005991
+    },
+    {
+      "country": "IT",
+      "date": "2026-04-06",
+      "eur_per_litre": 2.0920799999999997
+    },
+    {
+      "country": "NL",
+      "date": "2026-04-06",
+      "eur_per_litre": 2.5847399999999996
+    },
+    {
+      "country": "PL",
+      "date": "2026-04-06",
+      "eur_per_litre": 1.8027151109058979
+    },
+    {
+      "country": "AT",
+      "date": "2026-04-13",
+      "eur_per_litre": 2.075
+    },
+    {
+      "country": "CZ",
+      "date": "2026-04-13",
+      "eur_per_litre": 1.8691853310361801
+    },
+    {
+      "country": "DE",
+      "date": "2026-04-13",
+      "eur_per_litre": 2.275
+    },
+    {
+      "country": "FR",
+      "date": "2026-04-13",
+      "eur_per_litre": 2.3139000000000003
+    },
+    {
+      "country": "HU",
+      "date": "2026-04-13",
+      "eur_per_litre": 1.7063634558451641
+    },
+    {
+      "country": "IT",
+      "date": "2026-04-13",
+      "eur_per_litre": 2.1534400000000002
+    },
+    {
+      "country": "NL",
+      "date": "2026-04-13",
+      "eur_per_litre": 2.46878
+    },
+    {
+      "country": "PL",
+      "date": "2026-04-13",
+      "eur_per_litre": 1.7693823472776393
+    },
+    {
+      "country": "AT",
+      "date": "2026-04-20",
+      "eur_per_litre": 1.948
+    },
+    {
+      "country": "CZ",
+      "date": "2026-04-20",
+      "eur_per_litre": 1.7561035859854255
+    },
+    {
+      "country": "DE",
+      "date": "2026-04-20",
+      "eur_per_litre": 2.133
+    },
+    {
+      "country": "FR",
+      "date": "2026-04-20",
+      "eur_per_litre": 2.24413
+    },
+    {
+      "country": "HU",
+      "date": "2026-04-20",
+      "eur_per_litre": 1.7153615591809914
+    },
+    {
+      "country": "IT",
+      "date": "2026-04-20",
+      "eur_per_litre": 2.11471
+    },
+    {
+      "country": "NL",
+      "date": "2026-04-20",
+      "eur_per_litre": 2.2963400000000003
+    },
+    {
+      "country": "PL",
+      "date": "2026-04-20",
+      "eur_per_litre": 1.6355247046487182
+    },
+    {
+      "country": "AT",
+      "date": "2026-04-27",
+      "eur_per_litre": 1.91
+    },
+    {
+      "country": "CZ",
+      "date": "2026-04-27",
+      "eur_per_litre": 1.70747629018352
+    },
+    {
+      "country": "DE",
+      "date": "2026-04-27",
+      "eur_per_litre": 2.181
+    },
+    {
+      "country": "FR",
+      "date": "2026-04-27",
+      "eur_per_litre": 2.16391
+    },
+    {
+      "country": "HU",
+      "date": "2026-04-27",
+      "eur_per_litre": 1.7050743707983658
+    },
+    {
+      "country": "IT",
+      "date": "2026-04-27",
+      "eur_per_litre": 2.05956
+    },
+    {
+      "country": "NL",
+      "date": "2026-04-27",
+      "eur_per_litre": 2.3108400000000002
+    },
+    {
+      "country": "PL",
+      "date": "2026-04-27",
+      "eur_per_litre": 1.6201521657086186
+    },
+    {
+      "country": "AT",
+      "date": "2026-05-04",
+      "eur_per_litre": 1.999
+    },
+    {
+      "country": "CZ",
+      "date": "2026-05-04",
+      "eur_per_litre": 1.7639076784323373
+    },
+    {
+      "country": "DE",
+      "date": "2026-05-04",
+      "eur_per_litre": 2.088
+    },
+    {
+      "country": "FR",
+      "date": "2026-05-04",
+      "eur_per_litre": 2.16049
+    },
+    {
+      "country": "HU",
+      "date": "2026-05-04",
+      "eur_per_litre": 1.7272511170521012
+    },
+    {
+      "country": "IT",
+      "date": "2026-05-04",
+      "eur_per_litre": 2.04559
+    },
+    {
+      "country": "NL",
+      "date": "2026-05-04",
+      "eur_per_litre": 2.36546
+    },
+    {
+      "country": "PL",
+      "date": "2026-05-04",
+      "eur_per_litre": 1.6835882838824416
+    },
+    {
+      "country": "AT",
+      "date": "2026-05-11",
+      "eur_per_litre": 1.913
+    },
+    {
+      "country": "CZ",
+      "date": "2026-05-11",
+      "eur_per_litre": 1.7504623351004809
+    },
+    {
+      "country": "DE",
+      "date": "2026-05-11",
+      "eur_per_litre": 1.97
+    },
+    {
+      "country": "FR",
+      "date": "2026-05-11",
+      "eur_per_litre": 2.15656
+    },
+    {
+      "country": "HU",
+      "date": "2026-05-11",
+      "eur_per_litre": 1.7534580362152148
+    },
+    {
+      "country": "IT",
+      "date": "2026-05-11",
+      "eur_per_litre": 2.01992
+    },
+    {
+      "country": "NL",
+      "date": "2026-05-11",
+      "eur_per_litre": 2.2879
+    },
+    {
+      "country": "PL",
+      "date": "2026-05-11",
+      "eur_per_litre": 1.6233137835944205
+    },
+    {
+      "country": "AT",
+      "date": "2026-05-18",
+      "eur_per_litre": 1.914
+    },
+    {
+      "country": "CZ",
+      "date": "2026-05-18",
+      "eur_per_litre": 1.6729986431478967
+    },
+    {
+      "country": "DE",
+      "date": "2026-05-18",
+      "eur_per_litre": 1.972
+    },
+    {
+      "country": "FR",
+      "date": "2026-05-18",
+      "eur_per_litre": 2.11844
+    },
+    {
+      "country": "HU",
+      "date": "2026-05-18",
+      "eur_per_litre": 1.7269847309953041
+    },
+    {
+      "country": "IT",
+      "date": "2026-05-18",
+      "eur_per_litre": 1.98273
+    },
+    {
+      "country": "NL",
+      "date": "2026-05-18",
+      "eur_per_litre": 2.28471
+    },
+    {
+      "country": "PL",
+      "date": "2026-05-18",
+      "eur_per_litre": 1.5764253692474424
+    },
+    {
+      "country": "AT",
+      "date": "2026-05-25",
+      "eur_per_litre": 1.906
+    },
+    {
+      "country": "CZ",
+      "date": "2026-05-25",
+      "eur_per_litre": 1.6774805226926086
+    },
+    {
+      "country": "DE",
+      "date": "2026-05-25",
+      "eur_per_litre": 1.936
+    },
+    {
+      "country": "FR",
+      "date": "2026-05-25",
+      "eur_per_litre": 2.12477
+    },
+    {
+      "country": "HU",
+      "date": "2026-05-25",
+      "eur_per_litre": 1.7536409985319892
+    },
+    {
+      "country": "IT",
+      "date": "2026-05-25",
+      "eur_per_litre": 1.98932
+    },
+    {
+      "country": "NL",
+      "date": "2026-05-25",
+      "eur_per_litre": 2.26262
+    },
+    {
+      "country": "PL",
+      "date": "2026-05-25",
+      "eur_per_litre": 1.585800980134342
+    },
+    {
+      "country": "AT",
+      "date": "2026-06-01",
+      "eur_per_litre": 1.83
+    },
+    {
+      "country": "CZ",
+      "date": "2026-06-01",
+      "eur_per_litre": 1.583611282684785
+    },
+    {
+      "country": "DE",
+      "date": "2026-06-01",
+      "eur_per_litre": 1.86
+    },
+    {
+      "country": "FR",
+      "date": "2026-06-01",
+      "eur_per_litre": 2.04454
+    },
+    {
+      "country": "HU",
+      "date": "2026-06-01",
+      "eur_per_litre": 1.752331339160412
+    },
+    {
+      "country": "IT",
+      "date": "2026-06-01",
+      "eur_per_litre": 2.0194300000000003
+    },
+    {
+      "country": "NL",
+      "date": "2026-06-01",
+      "eur_per_litre": 2.16079
+    },
+    {
+      "country": "PL",
+      "date": "2026-06-01",
+      "eur_per_litre": 1.4669047264400565
+    },
+    {
+      "country": "AT",
+      "date": "2026-06-08",
+      "eur_per_litre": 1.831
+    },
+    {
+      "country": "CZ",
+      "date": "2026-06-08",
+      "eur_per_litre": 1.5767405389789937
+    },
+    {
+      "country": "DE",
+      "date": "2026-06-08",
+      "eur_per_litre": 1.87
+    },
+    {
+      "country": "FR",
+      "date": "2026-06-08",
+      "eur_per_litre": 2.0144
+    },
+    {
+      "country": "HU",
+      "date": "2026-06-08",
+      "eur_per_litre": 1.747327553702295
+    },
+    {
+      "country": "IT",
+      "date": "2026-06-08",
+      "eur_per_litre": 1.98273
+    },
+    {
+      "country": "NL",
+      "date": "2026-06-08",
+      "eur_per_litre": 2.1505900000000002
+    },
+    {
+      "country": "PL",
+      "date": "2026-06-08",
+      "eur_per_litre": 1.492390922977616
+    },
+    {
+      "country": "AT",
+      "date": "2026-06-15",
+      "eur_per_litre": 1.82
+    },
+    {
+      "country": "CZ",
+      "date": "2026-06-15",
+      "eur_per_litre": 1.5663878075043485
+    },
+    {
+      "country": "DE",
+      "date": "2026-06-15",
+      "eur_per_litre": 1.795
+    },
+    {
+      "country": "FR",
+      "date": "2026-06-15",
+      "eur_per_litre": 1.99528
+    },
+    {
+      "country": "HU",
+      "date": "2026-06-15",
+      "eur_per_litre": 1.7724827187377035
+    },
+    {
+      "country": "IT",
+      "date": "2026-06-15",
+      "eur_per_litre": 2.0046500000000003
+    },
+    {
+      "country": "NL",
+      "date": "2026-06-15",
+      "eur_per_litre": 2.10194
+    },
+    {
+      "country": "PL",
+      "date": "2026-06-15",
+      "eur_per_litre": 1.4730650585050689
+    },
+    {
+      "country": "AT",
+      "date": "2026-06-22",
+      "eur_per_litre": 1.724
+    },
+    {
+      "country": "CZ",
+      "date": "2026-06-22",
+      "eur_per_litre": 1.473007605820106
+    },
+    {
+      "country": "DE",
+      "date": "2026-06-22",
+      "eur_per_litre": 1.729
+    },
+    {
+      "country": "FR",
+      "date": "2026-06-22",
+      "eur_per_litre": 1.8898199999999998
+    },
+    {
+      "country": "HU",
+      "date": "2026-06-22",
+      "eur_per_litre": 1.6796792658882935
+    },
+    {
+      "country": "IT",
+      "date": "2026-06-22",
+      "eur_per_litre": 1.94866
+    },
+    {
+      "country": "NL",
+      "date": "2026-06-22",
+      "eur_per_litre": 2.0317
+    },
+    {
+      "country": "PL",
+      "date": "2026-06-22",
+      "eur_per_litre": 1.403821392940915
+    },
+    {
+      "country": "AT",
+      "date": "2026-06-29",
+      "eur_per_litre": 1.711
+    },
+    {
+      "country": "CZ",
+      "date": "2026-06-29",
+      "eur_per_litre": 1.4451817657241777
+    },
+    {
+      "country": "DE",
+      "date": "2026-06-29",
+      "eur_per_litre": 1.763
+    },
+    {
+      "country": "FR",
+      "date": "2026-06-29",
+      "eur_per_litre": 1.86907
+    },
+    {
+      "country": "HU",
+      "date": "2026-06-29",
+      "eur_per_litre": 1.6423125975101387
+    },
+    {
+      "country": "IT",
+      "date": "2026-06-29",
+      "eur_per_litre": 1.89702
+    },
+    {
+      "country": "NL",
+      "date": "2026-06-29",
+      "eur_per_litre": 2.02089
+    },
+    {
+      "country": "PL",
+      "date": "2026-06-29",
+      "eur_per_litre": 1.4075356297816226
+    },
+    {
+      "country": "AT",
+      "date": "2026-07-06",
+      "eur_per_litre": 1.73
+    },
+    {
+      "country": "CZ",
+      "date": "2026-07-06",
+      "eur_per_litre": 1.469677526182887
+    },
+    {
+      "country": "DE",
+      "date": "2026-07-06",
+      "eur_per_litre": 1.928
+    },
+    {
+      "country": "FR",
+      "date": "2026-07-06",
+      "eur_per_litre": 1.86299
+    },
+    {
+      "country": "HU",
+      "date": "2026-07-06",
+      "eur_per_litre": 1.673193155630819
+    },
+    {
+      "country": "IT",
+      "date": "2026-07-06",
+      "eur_per_litre": 1.88718
+    },
+    {
+      "country": "NL",
+      "date": "2026-07-06",
+      "eur_per_litre": 2.07198
+    },
+    {
+      "country": "PL",
+      "date": "2026-07-06",
+      "eur_per_litre": 1.6016424190082998
+    },
+    {
+      "country": "AT",
+      "date": "2026-07-13",
+      "eur_per_litre": 1.84
+    },
+    {
+      "country": "CZ",
+      "date": "2026-07-13",
+      "eur_per_litre": 1.516198169977743
+    },
+    {
+      "country": "DE",
+      "date": "2026-07-13",
+      "eur_per_litre": 2.015
+    },
+    {
+      "country": "FR",
+      "date": "2026-07-13",
+      "eur_per_litre": 1.94791
+    },
+    {
+      "country": "HU",
+      "date": "2026-07-13",
+      "eur_per_litre": 1.6847316242427444
+    },
+    {
+      "country": "IT",
+      "date": "2026-07-13",
+      "eur_per_litre": 1.95695
+    },
+    {
+      "country": "NL",
+      "date": "2026-07-13",
+      "eur_per_litre": 2.1489499999999997
+    },
+    {
+      "country": "PL",
+      "date": "2026-07-13",
+      "eur_per_litre": 1.6122767276867198
+    },
+    {
+      "country": "AT",
+      "date": "2026-07-20",
+      "eur_per_litre": 1.931
+    },
+    {
+      "country": "CZ",
+      "date": "2026-07-20",
+      "eur_per_litre": 1.7071930549813972
+    },
+    {
+      "country": "DE",
+      "date": "2026-07-20",
+      "eur_per_litre": 2.158
+    },
+    {
+      "country": "FR",
+      "date": "2026-07-20",
+      "eur_per_litre": 2.06641
+    },
+    {
+      "country": "HU",
+      "date": "2026-07-20",
+      "eur_per_litre": 1.6868726442507262
+    },
+    {
+      "country": "IT",
+      "date": "2026-07-20",
+      "eur_per_litre": 2.03817
+    },
+    {
+      "country": "NL",
+      "date": "2026-07-20",
+      "eur_per_litre": 2.30981
+    },
+    {
+      "country": "PL",
+      "date": "2026-07-20",
+      "eur_per_litre": 1.7248046918186568
+    },
+    {
+      "country": "AT",
+      "date": "2026-07-27",
+      "eur_per_litre": 2.051
+    },
+    {
+      "country": "CZ",
+      "date": "2026-07-27",
+      "eur_per_litre": 1.8144560357675115
+    },
+    {
+      "country": "DE",
+      "date": "2026-07-27",
+      "eur_per_litre": 2.186
+    },
+    {
+      "country": "FR",
+      "date": "2026-07-27",
+      "eur_per_litre": 2.16845
+    },
+    {
+      "country": "HU",
+      "date": "2026-07-27",
+      "eur_per_litre": 1.720644171438101
+    },
+    {
+      "country": "IT",
+      "date": "2026-07-27",
+      "eur_per_litre": 2.1406300000000003
+    },
+    {
+      "country": "NL",
+      "date": "2026-07-27",
+      "eur_per_litre": 2.39273
+    },
+    {
+      "country": "PL",
+      "date": "2026-07-27",
+      "eur_per_litre": 1.8177402543317833
+    },
+    {
+      "country": "AT",
+      "date": "2026-08-03",
+      "eur_per_litre": 2.05
+    },
+    {
+      "country": "CZ",
+      "date": "2026-08-03",
+      "eur_per_litre": 1.8437990580847723
+    },
+    {
+      "country": "DE",
+      "date": "2026-08-03",
+      "eur_per_litre": 2.208
+    },
+    {
+      "country": "FR",
+      "date": "2026-08-03",
+      "eur_per_litre": 2.2158200000000003
+    },
+    {
+      "country": "HU",
+      "date": "2026-08-03",
+      "eur_per_litre": 1.8244035524807432
+    },
+    {
+      "country": "IT",
+      "date": "2026-08-03",
+      "eur_per_litre": 2.09025
+    },
+    {
+      "country": "NL",
+      "date": "2026-08-03",
+      "eur_per_litre": 2.41394
+    },
+    {
+      "country": "PL",
+      "date": "2026-08-03",
+      "eur_per_litre": 1.8788271459641208
+    },
+    {
+      "country": "AT",
+      "date": "2026-08-10",
+      "eur_per_litre": 1.965
+    },
+    {
+      "country": "CZ",
+      "date": "2026-08-10",
+      "eur_per_litre": 1.8131700478311066
+    },
+    {
+      "country": "DE",
+      "date": "2026-08-10",
+      "eur_per_litre": 2.149
+    },
+    {
+      "country": "FR",
+      "date": "2026-08-10",
+      "eur_per_litre": 2.16904
+    },
+    {
+      "country": "HU",
+      "date": "2026-08-10",
+      "eur_per_litre": 1.812066933774849
+    },
+    {
+      "country": "IT",
+      "date": "2026-08-10",
+      "eur_per_litre": 2.0808
+    },
+    {
+      "country": "NL",
+      "date": "2026-08-10",
+      "eur_per_litre": 2.32265
+    },
+    {
+      "country": "PL",
+      "date": "2026-08-10",
+      "eur_per_litre": 1.8637903215316136
+    },
+    {
+      "country": "AT",
+      "date": "2026-08-17",
+      "eur_per_litre": 2.043
+    },
+    {
+      "country": "CZ",
+      "date": "2026-08-17",
+      "eur_per_litre": 1.8439733895293582
+    },
+    {
+      "country": "DE",
+      "date": "2026-08-17",
+      "eur_per_litre": 2.266
+    },
+    {
+      "country": "FR",
+      "date": "2026-08-17",
+      "eur_per_litre": 2.1993400000000003
+    },
+    {
+      "country": "HU",
+      "date": "2026-08-17",
+      "eur_per_litre": 1.8598302373451172
+    },
+    {
+      "country": "IT",
+      "date": "2026-08-17",
+      "eur_per_litre": 2.07892
+    },
+    {
+      "country": "NL",
+      "date": "2026-08-17",
+      "eur_per_litre": 2.38312
+    },
+    {
+      "country": "PL",
+      "date": "2026-08-17",
+      "eur_per_litre": 1.6855407719552709
+    },
+    {
+      "country": "AT",
+      "date": "2026-08-24",
+      "eur_per_litre": 2.05
+    },
+    {
+      "country": "CZ",
+      "date": "2026-08-24",
+      "eur_per_litre": 1.8987551867219916
+    },
+    {
+      "country": "DE",
+      "date": "2026-08-24",
+      "eur_per_litre": 2.286
+    },
+    {
+      "country": "FR",
+      "date": "2026-08-24",
+      "eur_per_litre": 2.23117
+    },
+    {
+      "country": "HU",
+      "date": "2026-08-24",
+      "eur_per_litre": 1.8789402792422731
+    },
+    {
+      "country": "IT",
+      "date": "2026-08-24",
+      "eur_per_litre": 2.1150900000000004
+    },
+    {
+      "country": "NL",
+      "date": "2026-08-24",
+      "eur_per_litre": 2.41546
+    },
+    {
+      "country": "PL",
+      "date": "2026-08-24",
+      "eur_per_litre": 1.728178662026907
+    },
+    {
+      "country": "AT",
+      "date": "2026-08-31",
+      "eur_per_litre": 1.993
+    },
+    {
+      "country": "CZ",
+      "date": "2026-08-31",
+      "eur_per_litre": 1.903449133571014
+    },
+    {
+      "country": "DE",
+      "date": "2026-08-31",
+      "eur_per_litre": 2.232
+    },
+    {
+      "country": "FR",
+      "date": "2026-08-31",
+      "eur_per_litre": 2.2085500000000002
+    },
+    {
+      "country": "HU",
+      "date": "2026-08-31",
+      "eur_per_litre": 1.8585273208593962
+    },
+    {
+      "country": "IT",
+      "date": "2026-08-31",
+      "eur_per_litre": 2.12346
+    },
+    {
+      "country": "NL",
+      "date": "2026-08-31",
+      "eur_per_litre": 2.32588
+    },
+    {
+      "country": "PL",
+      "date": "2026-08-31",
+      "eur_per_litre": 1.6693621234675737
+    },
+    {
+      "country": "AT",
+      "date": "2026-09-07",
+      "eur_per_litre": 2.126
+    },
+    {
+      "country": "CZ",
+      "date": "2026-09-07",
+      "eur_per_litre": 1.9584659255279582
+    },
+    {
+      "country": "DE",
+      "date": "2026-09-07",
+      "eur_per_litre": 2.328
+    },
+    {
+      "country": "FR",
+      "date": "2026-09-07",
+      "eur_per_litre": 2.25713
+    },
+    {
+      "country": "HU",
+      "date": "2026-09-07",
+      "eur_per_litre": 1.9179721675594337
+    },
+    {
+      "country": "IT",
+      "date": "2026-09-07",
+      "eur_per_litre": 2.14182
+    },
+    {
+      "country": "NL",
+      "date": "2026-09-07",
+      "eur_per_litre": 2.44224
+    },
+    {
+      "country": "PL",
+      "date": "2026-09-07",
+      "eur_per_litre": 1.9820406158447261
+    },
+    {
+      "country": "AT",
+      "date": "2026-09-14",
+      "eur_per_litre": 2.197
+    },
+    {
+      "country": "CZ",
+      "date": "2026-09-14",
+      "eur_per_litre": 1.990861941220054
+    },
+    {
+      "country": "DE",
+      "date": "2026-09-14",
+      "eur_per_litre": 2.426
+    },
+    {
+      "country": "FR",
+      "date": "2026-09-14",
+      "eur_per_litre": 2.29074
+    },
+    {
+      "country": "HU",
+      "date": "2026-09-14",
+      "eur_per_litre": 1.918958355539346
+    },
+    {
+      "country": "IT",
+      "date": "2026-09-14",
+      "eur_per_litre": 2.19068
+    },
+    {
+      "country": "NL",
+      "date": "2026-09-14",
+      "eur_per_litre": 2.4941999999999998
+    },
+    {
+      "country": "PL",
+      "date": "2026-09-14",
+      "eur_per_litre": 2.005146659141315
+    }
+  ]
+}

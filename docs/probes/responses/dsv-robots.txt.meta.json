@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.dsv.com/robots.txt",
+  "final_url": "https://www.dsv.com/robots.txt",
+  "fetched_at": "2026-09-22T21:57:12.1179604Z",
+  "completed_at": "2026-09-22T21:57:12.4564304Z",
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "bytes": 3221,
+  "sha256": "a7c5d104fc4e6f878d8de1d5568cf6bab98ba386f9e203e49cf907a3298760e2",
+  "file": "dsv-robots.txt"
+}

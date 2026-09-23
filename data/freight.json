@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "source_name": "U.S. Bureau of Transportation Statistics",
+    "source_url": "https://data.bts.gov/api/v3/views/bw6n-ddqk/query.json",
+    "fetched_at": "2026-09-22T22:43:07.437915+00:00",
+    "is_synthetic": false,
+    "schema_version": "1.0",
+    "expected_refresh_days": 35,
+    "note": ""
+  },
+  "records": [
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-05-01",
+      "value": 138.6,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-06-01",
+      "value": 138.0,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-07-01",
+      "value": 137.3,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-08-01",
+      "value": 138.8,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-09-01",
+      "value": 137.3,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-10-01",
+      "value": 138.3,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-11-01",
+      "value": 137.1,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2024-12-01",
+      "value": 137.4,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-01-01",
+      "value": 137.8,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-02-01",
+      "value": 136.8,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-03-01",
+      "value": 137.6,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-04-01",
+      "value": 137.5,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-05-01",
+      "value": 136.9,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-06-01",
+      "value": 137.0,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-07-01",
+      "value": 138.5,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-08-01",
+      "value": 138.9,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-09-01",
+      "value": 138.0,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-10-01",
+      "value": 136.7,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-11-01",
+      "value": 137.2,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2025-12-01",
+      "value": 136.9,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2026-01-01",
+      "value": 136.3,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2026-02-01",
+      "value": 138.4,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2026-03-01",
+      "value": 139.3,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2026-04-01",
+      "value": 138.2,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2026-05-01",
+      "value": 135.3,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2026-06-01",
+      "value": 136.6,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    },
+    {
+      "name": "Freight Transportation Services Index",
+      "date": "2026-07-01",
+      "value": 135.7,
+      "unit": "Index 2000=100, seasonally adjusted",
+      "region": "United States"
+    }
+  ]
+}

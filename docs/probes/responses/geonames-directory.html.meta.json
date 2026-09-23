@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://download.geonames.org/export/dump/",
+  "final_url": "https://download.geonames.org/export/dump/",
+  "fetched_at": "2026-09-22T22:07:21.5839563Z",
+  "completed_at": "2026-09-22T22:07:21.9622368Z",
+  "status": 200,
+  "content_type": "text/html; charset=ISO-8859-1",
+  "bytes": 43616,
+  "sha256": "ce3758a133966c67d20fc63440125e8136d5e992268e869dbf7fed762223e97a",
+  "file": "geonames-directory.html"
+}

@@ -1,0 +1,5 @@
+# Preserve captured publisher bytes for the SHA-256 audit trail.
+docs/probes/responses/* -text
+web/public/brand/*.svg -text
+*.png binary
+*.xlsx binary

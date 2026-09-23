@@ -1,0 +1,15 @@
+node_modules/
+.venv/
+__pycache__/
+.pytest_cache/
+web/dist/
+web/public/data/
+web/public/docs/
+.vercel/
+.env*
+!.env.example
+.superdesign/
+test-results/
+playwright-report/
+*.log
+*.tsbuildinfo

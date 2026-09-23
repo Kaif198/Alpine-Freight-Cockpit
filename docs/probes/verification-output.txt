@@ -1,0 +1,17 @@
+RECORDED FAILURE: https://www.dhl.com/robots.txt -- The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing.
+PASS: drewry-robots.txt HTTP 200; SHA-256 matches
+PASS: dsv-robots.txt HTTP 200; SHA-256 matches
+PASS: ec-bulletin.html HTTP 200; SHA-256 matches
+PASS: ec-legal.html HTTP 200; SHA-256 matches
+PASS: ec-prices-with-taxes.xlsx HTTP 200; SHA-256 matches
+PASS: ec-robots.txt HTTP 200; SHA-256 matches
+PASS: ecb-daily.xml HTTP 200; SHA-256 matches
+PASS: ecb-legal.html HTTP 200; SHA-256 matches
+PASS: ecb-rates.html HTTP 200; SHA-256 matches
+PASS: ecb-robots.txt HTTP 200; SHA-256 matches
+ECB XML: date=2026-09-22; currencies=29; USD per EUR=1.1463
+EC workbook: date=2026-09-14; country=Austria; diesel=2197 EUR/1000 l
+Evidence summary: 10 successful HTTP responses verified; 1 recorded access failure(s).
+Application tests: NOT RUN -- Phase 1 contains no application or test suite.
+Application build: NOT RUN -- Phase 1 contains no application or build configuration.
+Phase 1 exit gate: NOT MET -- no road-surcharge source approved for automated public use.

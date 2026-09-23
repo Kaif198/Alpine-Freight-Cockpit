@@ -1,0 +1,15 @@
+.git
+.venv
+web/node_modules
+web/dist
+web/public/data
+web/public/docs
+.superdesign
+docs/probes
+docs/screenshots
+docs/verification
+scraper
+synthetic
+test-results
+web/test-results
+web/playwright-report

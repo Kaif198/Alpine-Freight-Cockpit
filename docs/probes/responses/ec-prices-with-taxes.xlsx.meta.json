@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://energy.ec.europa.eu/document/download/264c2d0f-f161-4ea3-a777-78faae59bea0_en?filename=Weekly%20Oil%20Bulletin%20Weekly%20prices%20with%20Taxes%20-%202024-02-19.xlsx",
+  "final_url": "https://energy.ec.europa.eu/document/download/264c2d0f-f161-4ea3-a777-78faae59bea0_en?filename=Weekly%20Oil%20Bulletin%20Weekly%20prices%20with%20Taxes%20-%202024-02-19.xlsx",
+  "fetched_at": "2026-09-22T21:58:24.9731061Z",
+  "completed_at": "2026-09-22T21:58:25.2347324Z",
+  "status": 200,
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "bytes": 14237,
+  "sha256": "d3f006f4e74b047545d38aebcce7c11cc779e03a9da0677ba7fbbe1de3297724",
+  "file": "ec-prices-with-taxes.xlsx"
+}

@@ -1,0 +1,6 @@
+{
+  "requested_url": "https://www.dhl.com/robots.txt",
+  "fetched_at": "2026-09-22T22:04:20.6854842Z",
+  "error": "The request was canceled due to the configured HttpClient.Timeout of 20 seconds elapsing.",
+  "file": null
+}

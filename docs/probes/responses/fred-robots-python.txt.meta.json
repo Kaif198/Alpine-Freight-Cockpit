@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://fred.stlouisfed.org/robots.txt",
+  "final_url": "https://fred.stlouisfed.org/robots.txt",
+  "fetched_at": "2026-09-22T22:11:55.701374+00:00",
+  "completed_at": "2026-09-22T22:11:56.072152+00:00",
+  "status": 200,
+  "content_type": "text/plain",
+  "bytes": 960,
+  "sha256": "95860629969d02d112c0cdd09a102f0956f62686a62577ad2f733320587e20ce",
+  "file": "fred-robots-python.txt"
+}

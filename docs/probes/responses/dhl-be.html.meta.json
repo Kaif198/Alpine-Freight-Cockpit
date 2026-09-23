@@ -1,0 +1,6 @@
+{
+  "requested_url": "https://www.dhl.com/be-en/home/freight/help-center-for-european-road-and-rail/dhl-freight-surcharges.html",
+  "fetched_at": "2026-09-22T22:15:15.072196+00:00",
+  "error": "HTTPSConnectionPool(host='www.dhl.com', port=443): Read timed out. (read timeout=20)",
+  "file": null
+}

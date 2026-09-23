@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.drewry.co.uk/robots.txt",
+  "final_url": "https://www.drewry.co.uk/robots.txt",
+  "fetched_at": "2026-09-22T21:57:12.4713424Z",
+  "completed_at": "2026-09-22T21:57:12.7207592Z",
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "bytes": 2246,
+  "sha256": "f9d38d684ee54dbf6e819460f16a5aab700924914dc9423de6bad37aa924ac51",
+  "file": "drewry-robots.txt"
+}

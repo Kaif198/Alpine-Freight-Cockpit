@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "source_name": "European Central Bank",
+    "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?cb2af92b4b962bb8feefc7c75f2213f4",
+    "fetched_at": "2026-09-22T22:43:04.443803+00:00",
+    "is_synthetic": false,
+    "schema_version": "1.0",
+    "expected_refresh_days": 3,
+    "note": ""
+  },
+  "records": [
+    {
+      "currency": "USD",
+      "date": "2026-09-22",
+      "per_eur": 1.1463
+    },
+    {
+      "currency": "JPY",
+      "date": "2026-09-22",
+      "per_eur": 180.17
+    },
+    {
+      "currency": "CZK",
+      "date": "2026-09-22",
+      "per_eur": 24.344
+    },
+    {
+      "currency": "DKK",
+      "date": "2026-09-22",
+      "per_eur": 7.4756
+    },
+    {
+      "currency": "GBP",
+      "date": "2026-09-22",
+      "per_eur": 0.8578
+    },
+    {
+      "currency": "HUF",
+      "date": "2026-09-22",
+      "per_eur": 361.58
+    },
+    {
+      "currency": "PLN",
+      "date": "2026-09-22",
+      "per_eur": 4.348
+    },
+    {
+      "currency": "RON",
+      "date": "2026-09-22",
+      "per_eur": 5.266
+    },
+    {
+      "currency": "SEK",
+      "date": "2026-09-22",
+      "per_eur": 11.2463
+    },
+    {
+      "currency": "CHF",
+      "date": "2026-09-22",
+      "per_eur": 0.9393
+    },
+    {
+      "currency": "ISK",
+      "date": "2026-09-22",
+      "per_eur": 138.4
+    },
+    {
+      "currency": "NOK",
+      "date": "2026-09-22",
+      "per_eur": 10.801
+    },
+    {
+      "currency": "TRY",
+      "date": "2026-09-22",
+      "per_eur": 55.9492
+    },
+    {
+      "currency": "AUD",
+      "date": "2026-09-22",
+      "per_eur": 1.6122
+    },
+    {
+      "currency": "BRL",
+      "date": "2026-09-22",
+      "per_eur": 5.8726
+    },
+    {
+      "currency": "CAD",
+      "date": "2026-09-22",
+      "per_eur": 1.6099
+    },
+    {
+      "currency": "CNY",
+      "date": "2026-09-22",
+      "per_eur": 7.6803
+    },
+    {
+      "currency": "HKD",
+      "date": "2026-09-22",
+      "per_eur": 8.9909
+    },
+    {
+      "currency": "IDR",
+      "date": "2026-09-22",
+      "per_eur": 20426.66
+    },
+    {
+      "currency": "ILS",
+      "date": "2026-09-22",
+      "per_eur": 3.4593
+    },
+    {
+      "currency": "INR",
+      "date": "2026-09-22",
+      "per_eur": 109.5805
+    },
+    {
+      "currency": "KRW",
+      "date": "2026-09-22",
+      "per_eur": 1554.55
+    },
+    {
+      "currency": "MXN",
+      "date": "2026-09-22",
+      "per_eur": 19.7727
+    },
+    {
+      "currency": "MYR",
+      "date": "2026-09-22",
+      "per_eur": 4.67
+    },
+    {
+      "currency": "NZD",
+      "date": "2026-09-22",
+      "per_eur": 2.0003
+    },
+    {
+      "currency": "PHP",
+      "date": "2026-09-22",
+      "per_eur": 71.602
+    },
+    {
+      "currency": "SGD",
+      "date": "2026-09-22",
+      "per_eur": 1.4612
+    },
+    {
+      "currency": "THB",
+      "date": "2026-09-22",
+      "per_eur": 37.988
+    },
+    {
+      "currency": "ZAR",
+      "date": "2026-09-22",
+      "per_eur": 18.618
+    }
+  ]
+}

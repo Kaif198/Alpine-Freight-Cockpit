@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html",
+  "final_url": "https://www.ecb.europa.eu/services/using-our-site/disclaimer/html/index.en.html",
+  "fetched_at": "2026-09-22T21:59:10.1671732Z",
+  "completed_at": "2026-09-22T21:59:10.3908918Z",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 107588,
+  "sha256": "3482af11c1c0977f84fd738a61d1602610598270bd7fc2f1da8a039fe9629273",
+  "file": "ecb-legal.html"
+}

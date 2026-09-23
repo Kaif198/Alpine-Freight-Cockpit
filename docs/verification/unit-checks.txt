@@ -1,0 +1,30 @@
+Verified local output — 24 September 2026, Asia/Calcutta
+
+> npm run lint
+> eslint src
+(exit 0, no errors)
+
+> npm run typecheck
+> tsc -b
+(exit 0, no errors)
+
+> npm test
+ RUN  v5.0.1
+ Test Files  1 passed (1)
+      Tests  20 passed (20)
+   Start at  00:14:42
+   Duration  289ms (transform 57%, import 21%, tests 15%, worker 6%)
+
+> python -m pytest
+platform win32 -- Python 3.12.14, pytest-9.1.1, pluggy-1.6.0
+collected 14 items
+scraper\tests\test_pipeline.py .............. [100%]
+14 passed in 0.60s
+
+Original successful live refresh:
+diesel: OK | 216 records | 2026-09-22T22:42:59.302932+00:00
+fx: OK | 29 records | 2026-09-22T22:43:04.443803+00:00
+freight: OK | 27 records | 2026-09-22T22:43:07.437915+00:00
+
+Vercel CLI 59.25.4:
+Logged out. Production deployment requires account sign-in.

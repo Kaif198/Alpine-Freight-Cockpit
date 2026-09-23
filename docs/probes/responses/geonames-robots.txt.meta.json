@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://download.geonames.org/robots.txt",
+  "final_url": "https://download.geonames.org/robots.txt",
+  "fetched_at": "2026-09-22T22:07:22.0104174Z",
+  "completed_at": "2026-09-22T22:07:22.1670458Z",
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "bytes": 27,
+  "sha256": "32403248dc764535c87140955fc9451f9ebc9702f3e298d1c24fe84e558a53a9",
+  "file": "geonames-robots.txt"
+}

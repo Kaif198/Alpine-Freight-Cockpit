@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+  "final_url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html",
+  "fetched_at": "2026-09-22T21:57:36.3365245Z",
+  "completed_at": "2026-09-22T21:57:36.5220464Z",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 119327,
+  "sha256": "bf02454f418b421d34183df67f6498c47d2b8023607f28281756543c3292daa9",
+  "file": "ecb-rates.html"
+}

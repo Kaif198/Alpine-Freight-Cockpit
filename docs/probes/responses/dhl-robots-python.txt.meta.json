@@ -1,0 +1,11 @@
+{
+  "requested_url": "https://www.dhl.com/robots.txt",
+  "final_url": "https://www.dhl.com/robots.txt",
+  "fetched_at": "2026-09-22T22:11:30.927025+00:00",
+  "completed_at": "2026-09-22T22:11:31.041956+00:00",
+  "status": 200,
+  "content_type": "text/plain; charset=UTF-8",
+  "bytes": 1148,
+  "sha256": "c925b3a5957778737ae9651f7e13df145fa0a9aac99c64ee1b8a77280e0d8c81",
+  "file": "dhl-robots-python.txt"
+}

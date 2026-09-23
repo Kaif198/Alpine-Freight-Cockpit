@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "source_name": "Seeded fictional tender scenario (seed 198)",
+    "source_url": "synthetic/generate.py",
+    "fetched_at": "2026-09-14T00:00:00Z",
+    "is_synthetic": true,
+    "schema_version": "1.0",
+    "expected_refresh_days": 36500,
+    "note": "Fixed scenario reference date, not a live fetch. Fictional partners, bids, capacities and performance."
+  },
+  "records": [
+    {
+      "id": "tauern",
+      "name": "Tauern Freight",
+      "initials": "TF",
+      "colour": "#DB0A40",
+      "specialty": "Balanced network"
+    },
+    {
+      "id": "danube",
+      "name": "Danube Link Logistics",
+      "initials": "DL",
+      "colour": "#2468A0",
+      "specialty": "Central & Eastern Europe"
+    },
+    {
+      "id": "summit",
+      "name": "Summit Meridian",
+      "initials": "SM",
+      "colour": "#68559B",
+      "specialty": "Premium reliability"
+    },
+    {
+      "id": "velora",
+      "name": "Velora Transit",
+      "initials": "VT",
+      "colour": "#238269",
+      "specialty": "Western Europe specialist"
+    },
+    {
+      "id": "lowpass",
+      "name": "Lowpass Cargo",
+      "initials": "LC",
+      "colour": "#B57026",
+      "specialty": "Budget linehaul"
+    }
+  ]
+}
