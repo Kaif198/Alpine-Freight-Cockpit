@@ -2,7 +2,7 @@
   "meta": {
     "source_name": "U.S. Bureau of Transportation Statistics",
     "source_url": "https://data.bts.gov/api/v3/views/bw6n-ddqk/query.json",
-    "fetched_at": "2026-09-25T10:37:42.816717+00:00",
+    "fetched_at": "2026-09-26T10:21:13.242808+00:00",
     "is_synthetic": false,
     "schema_version": "1.0",
     "expected_refresh_days": 35,

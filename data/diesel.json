@@ -2,7 +2,7 @@
   "meta": {
     "source_name": "European Commission Weekly Oil Bulletin",
     "source_url": "https://energy.ec.europa.eu/document/download/906e60ca-8b6a-44e7-8589-652854d2fd3f_en?filename=Weekly_Oil_Bulletin_Prices_History_maticni_4web.xlsx",
-    "fetched_at": "2026-09-25T10:37:35.131135+00:00",
+    "fetched_at": "2026-09-26T10:21:05.148346+00:00",
     "is_synthetic": false,
     "schema_version": "1.0",
     "expected_refresh_days": 7,
