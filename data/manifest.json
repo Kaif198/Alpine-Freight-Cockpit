@@ -1,26 +1,26 @@
 {
   "diesel": {
     "status": "fresh",
-    "fetched_at": "2026-10-01T11:53:04.922789+00:00",
+    "fetched_at": "2026-10-02T11:25:23.586830+00:00",
     "source_url": "https://energy.ec.europa.eu/document/download/906e60ca-8b6a-44e7-8589-652854d2fd3f_en?filename=Weekly_Oil_Bulletin_Prices_History_maticni_4web.xlsx",
     "record_count": 216,
-    "checked_at": "2026-10-01T11:53:04.924157+00:00",
+    "checked_at": "2026-10-02T11:25:23.588174+00:00",
     "error": null
   },
   "fx": {
     "status": "fresh",
-    "fetched_at": "2026-10-01T11:53:10.373339+00:00",
+    "fetched_at": "2026-10-02T11:25:29.283809+00:00",
     "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?cb2af92b4b962bb8feefc7c75f2213f4",
     "record_count": 29,
-    "checked_at": "2026-10-01T11:53:10.373895+00:00",
+    "checked_at": "2026-10-02T11:25:29.284314+00:00",
     "error": null
   },
   "freight": {
     "status": "fresh",
-    "fetched_at": "2026-10-01T11:53:12.597197+00:00",
+    "fetched_at": "2026-10-02T11:25:33.837626+00:00",
     "source_url": "https://data.bts.gov/api/v3/views/bw6n-ddqk/query.json",
     "record_count": 27,
-    "checked_at": "2026-10-01T11:53:12.597777+00:00",
+    "checked_at": "2026-10-02T11:25:33.838104+00:00",
     "error": null
   },
   "lanes": {
