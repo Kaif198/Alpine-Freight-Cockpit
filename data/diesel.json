@@ -2,53 +2,13 @@
   "meta": {
     "source_name": "European Commission Weekly Oil Bulletin",
     "source_url": "https://energy.ec.europa.eu/document/download/906e60ca-8b6a-44e7-8589-652854d2fd3f_en?filename=Weekly_Oil_Bulletin_Prices_History_maticni_4web.xlsx",
-    "fetched_at": "2026-11-17T14:57:46.495620+00:00",
+    "fetched_at": "2026-11-18T14:38:47.643598+00:00",
     "is_synthetic": false,
     "schema_version": "1.0",
     "expected_refresh_days": 7,
     "note": ""
   },
   "records": [
-    {
-      "country": "AT",
-      "date": "2026-05-11",
-      "eur_per_litre": 1.913
-    },
-    {
-      "country": "CZ",
-      "date": "2026-05-11",
-      "eur_per_litre": 1.7504623351004809
-    },
-    {
-      "country": "DE",
-      "date": "2026-05-11",
-      "eur_per_litre": 1.97
-    },
-    {
-      "country": "FR",
-      "date": "2026-05-11",
-      "eur_per_litre": 2.15656
-    },
-    {
-      "country": "HU",
-      "date": "2026-05-11",
-      "eur_per_litre": 1.7534580362152148
-    },
-    {
-      "country": "IT",
-      "date": "2026-05-11",
-      "eur_per_litre": 2.01992
-    },
-    {
-      "country": "NL",
-      "date": "2026-05-11",
-      "eur_per_litre": 2.2879
-    },
-    {
-      "country": "PL",
-      "date": "2026-05-11",
-      "eur_per_litre": 1.6233137835944205
-    },
     {
       "country": "AT",
       "date": "2026-05-18",
@@ -1088,6 +1048,46 @@
       "country": "PL",
       "date": "2026-11-09",
       "eur_per_litre": 1.753052191150589
+    },
+    {
+      "country": "AT",
+      "date": "2026-11-16",
+      "eur_per_litre": 2.035
+    },
+    {
+      "country": "CZ",
+      "date": "2026-11-16",
+      "eur_per_litre": 1.8175045030293104
+    },
+    {
+      "country": "DE",
+      "date": "2026-11-16",
+      "eur_per_litre": 2.215
+    },
+    {
+      "country": "FR",
+      "date": "2026-11-16",
+      "eur_per_litre": 2.1229
+    },
+    {
+      "country": "HU",
+      "date": "2026-11-16",
+      "eur_per_litre": 1.9220572834901621
+    },
+    {
+      "country": "IT",
+      "date": "2026-11-16",
+      "eur_per_litre": 2.21001
+    },
+    {
+      "country": "NL",
+      "date": "2026-11-16",
+      "eur_per_litre": 2.29401
+    },
+    {
+      "country": "PL",
+      "date": "2026-11-16",
+      "eur_per_litre": 1.6763873014080308
     }
   ]
 }
