@@ -2,7 +2,7 @@
   "meta": {
     "source_name": "European Central Bank",
     "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?cb2af92b4b962bb8feefc7c75f2213f4",
-    "fetched_at": "2026-11-26T15:51:53.109151+00:00",
+    "fetched_at": "2026-11-27T15:40:22.299783+00:00",
     "is_synthetic": false,
     "schema_version": "1.0",
     "expected_refresh_days": 3,
@@ -11,148 +11,148 @@
   "records": [
     {
       "currency": "USD",
-      "date": "2026-11-26",
-      "per_eur": 1.0975
+      "date": "2026-11-27",
+      "per_eur": 1.0957
     },
     {
       "currency": "JPY",
-      "date": "2026-11-26",
-      "per_eur": 174.79
+      "date": "2026-11-27",
+      "per_eur": 174.81
     },
     {
       "currency": "CZK",
-      "date": "2026-11-26",
-      "per_eur": 24.453
+      "date": "2026-11-27",
+      "per_eur": 24.435
     },
     {
       "currency": "DKK",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "per_eur": 7.4737
     },
     {
       "currency": "GBP",
-      "date": "2026-11-26",
-      "per_eur": 0.83755
+      "date": "2026-11-27",
+      "per_eur": 0.83504
     },
     {
       "currency": "HUF",
-      "date": "2026-11-26",
-      "per_eur": 372.23
+      "date": "2026-11-27",
+      "per_eur": 369.73
     },
     {
       "currency": "PLN",
-      "date": "2026-11-26",
-      "per_eur": 4.4838
+      "date": "2026-11-27",
+      "per_eur": 4.4678
     },
     {
       "currency": "RON",
-      "date": "2026-11-26",
-      "per_eur": 5.344
+      "date": "2026-11-27",
+      "per_eur": 5.3437
     },
     {
       "currency": "SEK",
-      "date": "2026-11-26",
-      "per_eur": 11.2025
+      "date": "2026-11-27",
+      "per_eur": 11.208
     },
     {
       "currency": "CHF",
-      "date": "2026-11-26",
-      "per_eur": 0.9153
+      "date": "2026-11-27",
+      "per_eur": 0.9157
     },
     {
       "currency": "ISK",
-      "date": "2026-11-26",
-      "per_eur": 137.0
+      "date": "2026-11-27",
+      "per_eur": 137.2
     },
     {
       "currency": "NOK",
-      "date": "2026-11-26",
-      "per_eur": 10.718
+      "date": "2026-11-27",
+      "per_eur": 10.685
     },
     {
       "currency": "TRY",
-      "date": "2026-11-26",
-      "per_eur": 55.6177
+      "date": "2026-11-27",
+      "per_eur": 55.6474
     },
     {
       "currency": "AUD",
-      "date": "2026-11-26",
-      "per_eur": 1.654
+      "date": "2026-11-27",
+      "per_eur": 1.6431
     },
     {
       "currency": "BRL",
-      "date": "2026-11-26",
-      "per_eur": 6.3272
+      "date": "2026-11-27",
+      "per_eur": 6.0246
     },
     {
       "currency": "CAD",
-      "date": "2026-11-26",
-      "per_eur": 1.5617
+      "date": "2026-11-27",
+      "per_eur": 1.5608
     },
     {
       "currency": "CNY",
-      "date": "2026-11-26",
-      "per_eur": 7.3096
+      "date": "2026-11-27",
+      "per_eur": 7.2912
     },
     {
       "currency": "HKD",
-      "date": "2026-11-26",
-      "per_eur": 8.6015
+      "date": "2026-11-27",
+      "per_eur": 8.5774
     },
     {
       "currency": "IDR",
-      "date": "2026-11-26",
-      "per_eur": 20187.03
+      "date": "2026-11-27",
+      "per_eur": 20136.83
     },
     {
       "currency": "ILS",
-      "date": "2026-11-26",
-      "per_eur": 3.6517
+      "date": "2026-11-27",
+      "per_eur": 3.6261
     },
     {
       "currency": "INR",
-      "date": "2026-11-26",
-      "per_eur": 101.464
+      "date": "2026-11-27",
+      "per_eur": 101.904
     },
     {
       "currency": "KRW",
-      "date": "2026-11-26",
-      "per_eur": 1475.75
+      "date": "2026-11-27",
+      "per_eur": 1462.65
     },
     {
       "currency": "MXN",
-      "date": "2026-11-26",
-      "per_eur": 21.5893
+      "date": "2026-11-27",
+      "per_eur": 21.3794
     },
     {
       "currency": "MYR",
-      "date": "2026-11-26",
-      "per_eur": 4.519
+      "date": "2026-11-27",
+      "per_eur": 4.517
     },
     {
       "currency": "NZD",
-      "date": "2026-11-26",
-      "per_eur": 2.0033
+      "date": "2026-11-27",
+      "per_eur": 1.999
     },
     {
       "currency": "PHP",
-      "date": "2026-11-26",
-      "per_eur": 69.935
+      "date": "2026-11-27",
+      "per_eur": 69.828
     },
     {
       "currency": "SGD",
-      "date": "2026-11-26",
-      "per_eur": 1.4163
+      "date": "2026-11-27",
+      "per_eur": 1.4132
     },
     {
       "currency": "THB",
-      "date": "2026-11-26",
-      "per_eur": 37.386
+      "date": "2026-11-27",
+      "per_eur": 37.177
     },
     {
       "currency": "ZAR",
-      "date": "2026-11-26",
-      "per_eur": 19.2646
+      "date": "2026-11-27",
+      "per_eur": 18.9949
     }
   ]
 }
